@@ -8,7 +8,7 @@
                 <div class="row g-3">
                     <div class="col-md-12">
                         <label for="title" class="form-label">Title</label>
-                        <input type="text" class="form-control" id="title" name="title" required placeholder="Product Name" v-model="title">
+                        <input type="text" class="form-control" id="title" name="title" required placeholder="Movie Name" v-model="title">
                         <div class="invalid-feedback">Please enter title.</div>
                     </div>
 
